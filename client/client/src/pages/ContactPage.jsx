@@ -13,7 +13,7 @@ function ContactPage() {
 
         <div style={styles.contactLinks}>
           <a
-            href="https://github.com/yadavnihal/"
+            href="https://github.com/Nihal1220"
             target="_blank"
             rel="noopener noreferrer"
             style={styles.link}
@@ -22,7 +22,7 @@ function ContactPage() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/nihal-yadav-cse/"
+            href="https://www.linkedin.com/in/Nihal-dubey-/"
             target="_blank"
             rel="noopener noreferrer"
             style={styles.link}

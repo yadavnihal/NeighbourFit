@@ -65,7 +65,7 @@ function Footer() {
         <div style={styles.bottomSection}>
           <p style={styles.credit}>
             © {new Date().getFullYear()} NeighborFit. All rights reserved. 
-            <span style={styles.developer}> • Developed with ❤️ Nihal Yadav</span>
+            <span style={styles.developer}> • Developed with ❤️ by Nihal Yadav </span>
           </p>
           <div style={styles.legalLinks}>
             <a href="/privacy" style={styles.legalLink}>Privacy Policy</a>

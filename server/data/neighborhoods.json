@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Downtown",
+    "safety": 8,
+    "affordability": 6
+  },
+  {
+    "name": "Greenville",
+    "safety": 7,
+    "affordability": 9
+  },
+  {
+    "name": "Lakeside",
+    "safety": 9,
+    "affordability": 5
+  }
+]
